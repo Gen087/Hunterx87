@@ -1,5 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
 <ul>
-<h1>Gene S. Martinez</h1>
+<h1>Gene S. Martinez</h1></head>
 <h3>5703 23rd Avenue South
 <p>
 <h3>Minneapolis</h3>, MN 55417
@@ -8,6 +11,9 @@
 <p>
 <h3>E-mail</h3>: genem47@gmail.com
 </ul>
+<body> 
+<div class="education">
+<div class="container">
 <ul>
 <h3> EDUCATION </h3>
 <li>The Art Institutes International Minnesota, Minneapolis, MN			   
@@ -20,7 +26,10 @@ General Education
 <li> Ronald Hubb Center, Saint Paul, MN
 2008 - 2010
 G.E.D
-
+</div>
+</div>
+<div class="skills">
+<div class="container">
 <ul>
 <h3> SKILLS </h3>
 
@@ -34,9 +43,12 @@ G.E.D
 <p>
 <li>	Work ethic: Works well independently, but also able to communicate and work well with others.
 </body>
-<div>
+</div>
+</div>
+
+<div class="enployment">
+<div class="container">
 <h3>EMPLOYMENT</h3>
-<div>
 
 <h3>Nordstrom</h3>
 
@@ -45,7 +57,6 @@ G.E.D
 <li>Product retrieval: Fulfilling online orders by acquiring merchandise.
 <p>
 <li>Delivery: Packaging and Preparing merchandise for shipping. 
-<div>
 
 <h3>Urban Outfitters</h3>
 11/2013 - 11/2015,
@@ -57,7 +68,7 @@ Minneapolis MN 55403
 <li>Maintaining standards: Organization and appropriate presentation of the floor to company and industry regulations
 <p>
 <li>Facilitating Inventory Management: Continual replenishment of depleted stock on the floor, combined with ongoing loss prevention strategies and awareness
-<div>
+
 
 <h3>Super Target</h3>
 11/2010 - 02/2011,
@@ -70,4 +81,6 @@ St. Paul, MN 55104
 References available upon request.
 </body>
 </div>
+</div>
+</html>
    
